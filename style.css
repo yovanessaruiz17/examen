@@ -393,7 +393,10 @@ h1{
 .Contactenos p{
     font-size: 25px;
 }
-
+.btnSin{
+    width: 200px; 
+    height: 40px;
+}
 hr{
     height: 1px;
     background-color: green;
